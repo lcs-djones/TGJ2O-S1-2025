@@ -6,12 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -34,10 +29,21 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+    title: "Navigate this site",
+    folderClickBehavior: "link",
+    filterFn: (node) => {
+      // CQ4T-OMIT-ANCHOR: do not remove this line; build script overwrites this Set
+const omit = new Set(["Grove Time", "Learning Goals", "Private Notes", "Scratch Page", "Key Links", "Media"])
+      if (node.isFolder) {
+        return !omit.has(node.fileSegmentHint);
+      } else {
+        return !omit.has(node.data.title);
+      }
+    },
+  }),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -58,7 +64,19 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+    title: "Navigate this site",
+    folderClickBehavior: "link",
+    filterFn: (node) => {
+      // CQ4T-OMIT-ANCHOR: do not remove this line; build script overwrites this Set
+const omit = new Set(["Grove Time", "Learning Goals", "Private Notes", "Scratch Page", "Key Links", "Media"])
+      if (node.isFolder) {
+        return !omit.has(node.fileSegmentHint);
+      } else {
+        return !omit.has(node.data.title);
+      }
+    },
+  }),
   ],
   right: [],
 }

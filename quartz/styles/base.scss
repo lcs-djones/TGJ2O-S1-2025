@@ -81,8 +81,8 @@ a {
 
   &.internal {
     text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
+    /*    background-color: var(--highlight); */
+padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
 
@@ -599,4 +599,19 @@ iframe.pdf {
   background: var(--secondary);
   transition: width 0.2s ease;
   z-index: 9999;
+}
+
+
+/* Additions for containerized Quartz for teachers styles */
+a.transclude-src {
+  display: none;
+}
+
+blockquote.transclude {
+  padding-left: 0;
+  border-left: none;
+}
+
+#quartz-body > div.center > div.page-header > div > h1 {
+  font-size: 2rem;
 }

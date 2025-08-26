@@ -1,0 +1,87 @@
+{
+  "course_code": "TGJ2O",
+  "course_name": "Comm Tech",
+  "emojis": {
+    "sections": {
+      "section1": "📚",
+      "section2": "✏️",
+      "section3": "🖥️"
+    }
+  },
+  "num_sections": 3,
+  "section_numbers": [
+    1,
+    2,
+    3
+  ],
+  "shared_folders": [
+    "Adobe Creative Cloud",
+    "Photoshop",
+    "Premiere Pro",
+    "Projects",
+    "Setup",
+    "Tinkercad"
+  ],
+  "shared_files": [
+    "Course Outline.md",
+    "Grove Time.md",
+    "Learning Goals.md"
+  ],
+  "per_section_folders": [
+    "All Classes"
+  ],
+  "per_section_files": [
+    "Private Notes.md",
+    "Scratch Page.md",
+    "Key Links.md"
+  ],
+  "hidden": [
+    "Grove Time.md",
+    "Learning Goals.md",
+    "Private Notes.md",
+    "Scratch Page.md",
+    "Key Links.md",
+    "Media"
+  ],
+  "expandable": [
+    "Adobe Creative Cloud",
+    "Photoshop",
+    "Premiere Pro",
+    "Projects",
+    "Setup",
+    "Tinkercad",
+    "Course Outline.md"
+  ],
+  "expandOnFolderClick": false,
+  "footer_html": "",
+  "show_reading_time": true,
+  "fonts": {
+    "default": {
+      "header": "Helvetica, Arial",
+      "body": "Helvetica, Arial",
+      "code": "IBM Plex Mono"
+    },
+    "sections": {
+      "section1": {
+        "header": "Helvetica, Arial",
+        "body": "Helvetica, Arial",
+        "code": "IBM Plex Mono"
+      },
+      "section2": {
+        "header": "Helvetica, Arial",
+        "body": "Helvetica, Arial",
+        "code": "IBM Plex Mono"
+      },
+      "section3": {
+        "header": "Helvetica, Arial",
+        "body": "Helvetica, Arial",
+        "code": "IBM Plex Mono"
+      }
+    }
+  },
+  "color_schemes": {
+    "section1": "desert-sandstone",
+    "section2": "graphite-neon",
+    "section3": "lakefield-college-school"
+  }
+}

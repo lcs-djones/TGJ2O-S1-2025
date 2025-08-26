@@ -2,6 +2,18 @@ import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 
+// ✅ Static import of expandable folder list
+// @ts-ignore
+import courseConfig from "../../course_config.json"
+
+const expandableList: string[] = courseConfig.expandable || []
+
+// Case-insensitive membership check for expandability
+const isExpandableName = (name: string) =>
+  expandableList.some(
+    (x) => x.localeCompare(name, undefined, { sensitivity: "base" }) === 0,
+  )
+
 type MaybeHTMLElement = HTMLElement | undefined
 
 interface ParsedOptions {
@@ -11,7 +23,9 @@ interface ParsedOptions {
   sortFn: (a: FileTrieNode, b: FileTrieNode) => number
   filterFn: (node: FileTrieNode) => boolean
   mapFn: (node: FileTrieNode) => void
-  order: "sort" | "filter" | "map"[]
+  order: ("sort" | "filter" | "map")[]
+
+  expandOnNavigate: boolean
 }
 
 type FolderState = {
@@ -20,6 +34,7 @@ type FolderState = {
 }
 
 let currentExplorerState: Array<FolderState>
+
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -35,16 +50,9 @@ function toggleFolder(evt: MouseEvent) {
   const target = evt.target as MaybeHTMLElement
   if (!target) return
 
-  // Check if target was svg icon or button
   const isSvg = target.nodeName === "svg"
-
-  // corresponding <ul> element relative to clicked button/folder
   const folderContainer = (
-    isSvg
-      ? // svg -> div.folder-container
-        target.parentElement
-      : // button.folder-button -> div -> div.folder-container
-        target.parentElement?.parentElement
+    isSvg ? target.parentElement : target.parentElement?.parentElement
   ) as MaybeHTMLElement
   if (!folderContainer) return
   const childFolderContainer = folderContainer.nextElementSibling as MaybeHTMLElement
@@ -52,7 +60,6 @@ function toggleFolder(evt: MouseEvent) {
 
   childFolderContainer.classList.toggle("open")
 
-  // Collapse folder container
   const isCollapsed = !childFolderContainer.classList.contains("open")
   setFolderState(childFolderContainer, isCollapsed)
 
@@ -104,8 +111,9 @@ function createFolderNode(
   const folderPath = node.slug
   folderContainer.dataset.folderpath = folderPath
 
+  const isExpandable = isExpandableName(node.displayName)
+
   if (opts.folderClickBehavior === "link") {
-    // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
     const a = document.createElement("a")
     a.href = resolveRelative(currentSlug, folderPath)
@@ -118,18 +126,22 @@ function createFolderNode(
     span.textContent = node.displayName
   }
 
-  // if the saved state is collapsed or the default state is collapsed
+  if (!isExpandable) {
+    const icon = folderContainer.querySelector(".folder-icon") as HTMLElement
+    icon.remove()
+    folderOuter.remove()
+    return li
+  }
+
   const isCollapsed =
     currentExplorerState.find((item) => item.path === folderPath)?.collapsed ??
     opts.folderDefaultState === "collapsed"
 
-  // if this folder is a prefix of the current path we
-  // want to open it anyways
   const simpleFolderPath = simplifySlug(folderPath)
   const folderIsPrefixOfCurrentSlug =
     simpleFolderPath === currentSlug.slice(0, simpleFolderPath.length)
 
-  if (!isCollapsed || folderIsPrefixOfCurrentSlug) {
+  if (!isCollapsed || (opts.expandOnNavigate && folderIsPrefixOfCurrentSlug)) {
     folderOuter.classList.add("open")
   }
 
@@ -158,7 +170,6 @@ async function setupExplorer(currentSlug: FullSlug) {
       mapFn: new Function("return " + (dataFns.mapFn || "undefined"))(),
     }
 
-    // Get folder state from local storage
     const storageTree = localStorage.getItem("fileTree")
     const serializedExplorerState = storageTree && opts.useSavedState ? JSON.parse(storageTree) : []
     const oldIndex = new Map<string, boolean>(
@@ -169,7 +180,6 @@ async function setupExplorer(currentSlug: FullSlug) {
     const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
     const trie = FileTrieNode.fromEntries(entries)
 
-    // Apply functions in order
     for (const fn of opts.order) {
       switch (fn) {
         case "filter":
@@ -184,7 +194,6 @@ async function setupExplorer(currentSlug: FullSlug) {
       }
     }
 
-    // Get folder paths for state management
     const folderPaths = trie.getFolderPaths()
     currentExplorerState = folderPaths.map((path) => {
       const previousState = oldIndex.get(path)
@@ -198,30 +207,47 @@ async function setupExplorer(currentSlug: FullSlug) {
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
 
-    // Create and insert new content
     const fragment = document.createDocumentFragment()
-    for (const child of trie.children) {
+
+    // --- TOP-LEVEL TWO-TIER SORT: Non-expandable folders first, then expandable; A→Z within groups.
+    const topLevelChildren = [...trie.children]
+
+    const nonExpandableFolders = topLevelChildren.filter(
+      (c) => c.isFolder && !isExpandableName(c.displayName),
+    )
+    const expandableFolders = topLevelChildren.filter(
+      (c) => c.isFolder && isExpandableName(c.displayName),
+    )
+    const files = topLevelChildren.filter((c) => !c.isFolder)
+
+    // Sort folders within each group, case-insensitive, numeric-aware
+    const alpha = (a: FileTrieNode, b: FileTrieNode) =>
+      a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+
+    nonExpandableFolders.sort(alpha)
+    expandableFolders.sort(alpha)
+
+    // Re-assemble: non-expandable folders → expandable folders → files (files retain their order post-trie sort)
+    const orderedTopLevel = [...nonExpandableFolders, ...expandableFolders, ...files]
+
+    for (const child of orderedTopLevel) {
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)
         : createFileNode(currentSlug, child)
-
       fragment.appendChild(node)
     }
     explorerUl.insertBefore(fragment, explorerUl.firstChild)
 
-    // restore explorer scrollTop position if it exists
     const scrollTop = sessionStorage.getItem("explorerScrollTop")
     if (scrollTop) {
       explorerUl.scrollTop = parseInt(scrollTop)
     } else {
-      // try to scroll to the active element if it exists
       const activeElement = explorerUl.querySelector(".active")
       if (activeElement) {
         activeElement.scrollIntoView({ behavior: "smooth" })
       }
     }
 
-    // Set up event handlers
     const explorerButtons = explorer.getElementsByClassName(
       "explorer-toggle",
     ) as HTMLCollectionOf<HTMLElement>
@@ -230,7 +256,6 @@ async function setupExplorer(currentSlug: FullSlug) {
       window.addCleanup(() => button.removeEventListener("click", toggleExplorer))
     }
 
-    // Set up folder click handlers
     if (opts.folderClickBehavior === "collapse") {
       const folderButtons = explorer.getElementsByClassName(
         "folder-button",
@@ -252,7 +277,6 @@ async function setupExplorer(currentSlug: FullSlug) {
 }
 
 document.addEventListener("prenav", async () => {
-  // save explorer scrollTop position
   const explorer = document.querySelector(".explorer-ul")
   if (!explorer) return
   sessionStorage.setItem("explorerScrollTop", explorer.scrollTop.toString())
@@ -262,7 +286,6 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
   await setupExplorer(currentSlug)
 
-  // if mobile hamburger is visible, collapse by default
   for (const explorer of document.getElementsByClassName("explorer")) {
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
     if (!mobileExplorer) return

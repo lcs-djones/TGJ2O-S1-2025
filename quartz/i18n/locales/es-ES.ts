@@ -22,8 +22,8 @@ export default {
       quote: "Cita",
     },
     backlinks: {
-      title: "Retroenlaces",
-      noBacklinksFound: "No se han encontrado retroenlaces",
+      title: "¿Cuándo hicimos esto?",
+      noBacklinksFound: "Aún no se ha tratado en clase.",
     },
     themeToggle: {
       lightMode: "Modo claro",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Busca algo",
     },
     tableOfContents: {
-      title: "Tabla de Contenidos",
+      title: "Navegar por esta página",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `Se lee en ${minutes} min`,

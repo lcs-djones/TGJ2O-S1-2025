@@ -22,8 +22,8 @@ export default {
       quote: "Idézet",
     },
     backlinks: {
-      title: "Visszautalások",
-      noBacklinksFound: "Nincs visszautalás",
+      title: "Mikor csináltuk ezt?",
+      noBacklinksFound: "Még nem tárgyaltuk az órán.",
     },
     themeToggle: {
       lightMode: "Világos mód",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Keress valamire",
     },
     tableOfContents: {
-      title: "Tartalomjegyzék",
+      title: "Navigáljon ezen az oldalon",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} perces olvasás`,

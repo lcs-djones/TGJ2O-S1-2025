@@ -22,8 +22,8 @@ export default {
       quote: "Trích Dẫn",
     },
     backlinks: {
-      title: "Liên Kết Ngược",
-      noBacklinksFound: "Không có liên kết ngược được tìm thấy",
+      title: "Chúng ta đã làm điều này khi nào?",
+      noBacklinksFound: "Chưa được đề cập trong lớp học.",
     },
     themeToggle: {
       lightMode: "Sáng",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Tìm kiếm thông tin",
     },
     tableOfContents: {
-      title: "Bảng Nội Dung",
+      title: "Điều hướng trang này",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `đọc ${minutes} phút`,

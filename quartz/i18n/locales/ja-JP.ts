@@ -22,8 +22,8 @@ export default {
       quote: "引用",
     },
     backlinks: {
-      title: "バックリンク",
-      noBacklinksFound: "バックリンクはありません",
+      title: "これをいつやったの？",
+      noBacklinksFound: "授業ではまだ取り上げられていません。",
     },
     themeToggle: {
       lightMode: "ライトモード",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "検索ワードを入力",
     },
     tableOfContents: {
-      title: "目次",
+      title: "このページをナビゲートする",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,

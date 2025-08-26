@@ -9,6 +9,7 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { FileTrieNode } from "../../util/fileTrie"
+
 interface FolderContentOptions {
   /**
    * Whether to display number of folders
@@ -19,7 +20,7 @@ interface FolderContentOptions {
 }
 
 const defaultOptions: FolderContentOptions = {
-  showFolderCount: true,
+  showFolderCount: false,
   showSubfolders: true,
 }
 
@@ -36,6 +37,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
 
+    // Build a trie of all files (once)
     if (!trie) {
       trie = new FileTrieNode([])
       allFiles.forEach((file) => {
@@ -107,6 +109,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           }
         })
         .filter((page) => page !== undefined) ?? []
+
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
     const classes = cssClasses.join(" ")
     const listProps = {
@@ -121,21 +124,34 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         : htmlToJsx(fileData.filePath!, tree)
     ) as ComponentChildren
 
+    // Read frontmatter flag `renderFolderPages` with sensible defaults
+    const rawFlag = (fileData.frontmatter as any)?.renderFolderPages
+    const shouldRenderPageList =
+      rawFlag === undefined
+        ? true
+        : typeof rawFlag === "boolean"
+          ? rawFlag
+          : typeof rawFlag === "string"
+            ? !/^(false|no|off|0)$/i.test(rawFlag.trim())
+            : Boolean(rawFlag)
+
     return (
       <div class="popover-hint">
         <article class={classes}>{content}</article>
-        <div class="page-listing">
-          {options.showFolderCount && (
-            <p>
-              {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
-                count: allPagesInFolder.length,
-              })}
-            </p>
-          )}
-          <div>
-            <PageList {...listProps} />
+        {shouldRenderPageList && (
+          <div class="page-listing">
+            {options.showFolderCount && (
+              <p>
+                {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
+                  count: allPagesInFolder.length,
+                })}
+              </p>
+            )}
+            <div>
+              <PageList {...listProps} />
+            </div>
           </div>
-        </div>
+        )}
       </div>
     )
   }

@@ -22,8 +22,8 @@ export default {
       quote: "Citation",
     },
     backlinks: {
-      title: "Liens retour",
-      noBacklinksFound: "Aucun lien retour trouvé",
+      title: "Quand avons-nous fait cela ?",
+      noBacklinksFound: "Pas encore abordé en classe.",
     },
     themeToggle: {
       lightMode: "Mode clair",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Rechercher quelque chose",
     },
     tableOfContents: {
-      title: "Table des Matières",
+      title: "Naviguer sur cette page",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min de lecture`,

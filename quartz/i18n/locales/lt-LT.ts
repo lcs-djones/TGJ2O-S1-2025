@@ -22,8 +22,8 @@ export default {
       quote: "Citata",
     },
     backlinks: {
-      title: "Atgalinės Nuorodos",
-      noBacklinksFound: "Atgalinių Nuorodų Nerasta",
+      title: "Kada mes tai padarėme?",
+      noBacklinksFound: "Dar neaptarta pamokoje.",
     },
     themeToggle: {
       lightMode: "Šviesus Režimas",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Ieškoti",
     },
     tableOfContents: {
-      title: "Turinys",
+      title: "Naršykite šiame puslapyje",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min skaitymo`,

@@ -22,8 +22,8 @@ export default {
       quote: "نقل قول",
     },
     backlinks: {
-      title: "بک‌لینک‌ها",
-      noBacklinksFound: "بدون بک‌لینک",
+      title: "ما چه زمانی این کار را انجام دادیم؟",
+      noBacklinksFound: "هنوز در کلاس مطرح نشده است.",
     },
     themeToggle: {
       lightMode: "حالت روشن",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "مطلبی را جستجو کنید",
     },
     tableOfContents: {
-      title: "فهرست",
+      title: "در این صفحه پیمایش کنید",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `زمان تقریبی مطالعه: ${minutes} دقیقه`,

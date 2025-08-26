@@ -22,8 +22,8 @@ export default {
       quote: "Citat",
     },
     backlinks: {
-      title: "Legături înapoi",
-      noBacklinksFound: "Nu s-au găsit legături înapoi",
+      title: "Când am făcut asta?",
+      noBacklinksFound: "Încă nu a fost abordat la clasă.",
     },
     themeToggle: {
       lightMode: "Modul luminos",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Introduceți termenul de căutare...",
     },
     tableOfContents: {
-      title: "Cuprins",
+      title: "Navigați această pagină",
     },
     contentMeta: {
       readingTime: ({ minutes }) =>

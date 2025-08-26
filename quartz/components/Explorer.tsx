@@ -1,3 +1,11 @@
+// @ts-ignore
+import courseConfig from "../course_config.json"
+
+const expandableList = courseConfig.expandable ?? []
+
+
+
+const expandOnFolderClick = courseConfig.expandOnFolderClick ?? true
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/explorer.scss"
 
@@ -22,6 +30,11 @@ export interface Options {
   order: OrderEntries[]
 }
 
+const isExpandable = (name: string) => {
+  // Case-insensitive membership check against course_config.json.expandable
+  return expandableList.some((x: string) => x.localeCompare(name, undefined, { sensitivity: "base" }) === 0)
+}
+
 const defaultOptions: Options = {
   folderDefaultState: "collapsed",
   folderClickBehavior: "link",
@@ -30,16 +43,13 @@ const defaultOptions: Options = {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
+    // Sort order: folders first, then files. Sort folders and files alphabetically.
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
     }
-
     if (!a.isFolder && b.isFolder) {
       return 1
     } else {
@@ -63,6 +73,7 @@ export default ((userOpts?: Partial<Options>) => {
     return (
       <div
         class={classNames(displayClass, "explorer")}
+        data-expandable={JSON.stringify(expandableList)}
         data-behavior={opts.folderClickBehavior}
         data-collapsed={opts.folderDefaultState}
         data-savestate={opts.useSavedState}
@@ -72,7 +83,7 @@ export default ((userOpts?: Partial<Options>) => {
           filterFn: opts.filterFn.toString(),
           mapFn: opts.mapFn.toString(),
         })}
-      >
+       data-expand-on-navigate={expandOnFolderClick}>
         <button
           type="button"
           class="explorer-toggle mobile-explorer hide-until-loaded"

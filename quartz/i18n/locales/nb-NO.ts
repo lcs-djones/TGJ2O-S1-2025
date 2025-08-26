@@ -22,8 +22,8 @@ export default {
       quote: "Sitat",
     },
     backlinks: {
-      title: "Tilbakekoblinger",
-      noBacklinksFound: "Ingen tilbakekoblinger funnet",
+      title: "Når gjorde vi dette?",
+      noBacklinksFound: "Ikke tatt opp i timen ennå.",
     },
     themeToggle: {
       lightMode: "Lys modus",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Søk etter noe",
     },
     tableOfContents: {
-      title: "Oversikt",
+      title: "Naviger på denne siden",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min lesning`,

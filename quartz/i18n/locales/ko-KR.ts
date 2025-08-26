@@ -22,8 +22,8 @@ export default {
       quote: "인용",
     },
     backlinks: {
-      title: "백링크",
-      noBacklinksFound: "백링크가 없습니다.",
+      title: "이걸 언제 했죠?",
+      noBacklinksFound: "수업에서 아직 다루지 않았습니다.",
     },
     themeToggle: {
       lightMode: "라이트 모드",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "검색어를 입력하세요",
     },
     tableOfContents: {
-      title: "목차",
+      title: "이 페이지 탐색",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,

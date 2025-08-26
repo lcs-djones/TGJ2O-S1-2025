@@ -22,8 +22,8 @@ export default {
       quote: "引用",
     },
     backlinks: {
-      title: "反向連結",
-      noBacklinksFound: "無法找到反向連結",
+      title: "我們什麼時候做的？",
+      noBacklinksFound: "課堂上尚未涉及。",
     },
     themeToggle: {
       lightMode: "亮色模式",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "搜尋些什麼",
     },
     tableOfContents: {
-      title: "目錄",
+      title: "瀏覽此頁面",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `閱讀時間約 ${minutes} 分鐘`,

@@ -22,8 +22,8 @@ export default {
       quote: "Cytat",
     },
     backlinks: {
-      title: "Odnośniki zwrotne",
-      noBacklinksFound: "Brak połączeń zwrotnych",
+      title: "Kiedy to zrobiliśmy?",
+      noBacklinksFound: "Jeszcze nie omówione na zajęciach.",
     },
     themeToggle: {
       lightMode: "Trzyb jasny",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Spis treści",
+      title: "Nawiguj po tej stronie",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min. czytania `,

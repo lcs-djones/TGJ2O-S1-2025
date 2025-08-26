@@ -22,8 +22,8 @@ export default {
       quote: "اقتباس",
     },
     backlinks: {
-      title: "وصلات العودة",
-      noBacklinksFound: "لا يوجد وصلات عودة",
+      title: "متى فعلنا هذا؟",
+      noBacklinksFound: "لم يتم التطرق إليه في الصف بعد.",
     },
     themeToggle: {
       lightMode: "الوضع النهاري",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "ابحث عن شيء ما",
     },
     tableOfContents: {
-      title: "فهرس المحتويات",
+      title: "تصفّح هذه الصفحة",
     },
     contentMeta: {
       readingTime: ({ minutes }) =>

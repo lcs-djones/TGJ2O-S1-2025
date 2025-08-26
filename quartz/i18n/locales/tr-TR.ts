@@ -22,8 +22,8 @@ export default {
       quote: "Alıntı",
     },
     backlinks: {
-      title: "Backlinkler",
-      noBacklinksFound: "Backlink bulunamadı",
+      title: "Bunu ne zaman yaptık?",
+      noBacklinksFound: "Henüz derste ele alınmadı.",
     },
     themeToggle: {
       lightMode: "Açık mod",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Bir şey arayın",
     },
     tableOfContents: {
-      title: "İçindekiler",
+      title: "Bu sayfada gezin",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} dakika okuma süresi`,

@@ -22,8 +22,8 @@ export default {
       quote: "Цитата",
     },
     backlinks: {
-      title: "Обратные ссылки",
-      noBacklinksFound: "Обратные ссылки отсутствуют",
+      title: "Когда мы это сделали?",
+      noBacklinksFound: "Ещё не рассмотрено на занятиях.",
     },
     themeToggle: {
       lightMode: "Светлый режим",
@@ -52,7 +52,7 @@ export default {
       searchBarPlaceholder: "Найти что-нибудь",
     },
     tableOfContents: {
-      title: "Оглавление",
+      title: "Навигация по этой странице",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `время чтения ~${minutes} мин.`,
