@@ -1,6 +1,6 @@
 ---
 created: 2025-09-19T07:00:00.000-0400
-draft: false
+draft: true
 notes: Consider doing a quick walkthrough of the folder structure on your own desktop
   before students begin.
 tags: null

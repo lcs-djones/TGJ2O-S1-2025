@@ -8,11 +8,11 @@ tags: null
 
 Once you have logged in to Notion and [[Creating a Notion Account#Opening the teamspace|opened the Lakefield Computer Studies Program teamspace]], you should see your portfolio page:
 
-![[Screenshot 2024-09-06 at 6.29.15 AM.png]]
+![[Pasted image 20250914171726.png]]
 
 ## Complete your first entry
 
-Tap on the entry named `My First Entry!`.
+Tap on the entry named `Day 1 Introduction`.
 
 In the space below the prompts, take some time to reply.
 

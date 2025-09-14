@@ -1,6 +1,6 @@
 ---
 created: 2025-09-17T07:00:00.000-0400
-draft: false
+draft: true
 notes: If students finish early, direct them toward the original project prompt at
   the end of this page or allow exploration of other Photoshop tutorial categories.
 tags: null

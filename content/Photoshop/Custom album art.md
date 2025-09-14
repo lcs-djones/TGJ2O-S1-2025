@@ -1,6 +1,6 @@
 ---
 created: 2025-09-18T07:00:00.000-0400
-draft: false
+draft: true
 notes: If students are stuck on choosing a song or artist, suggest something instrumental
   or genre-based (e.g. “lo-fi beats” or “epic fantasy soundtrack”) to help them focus
   more on design.
