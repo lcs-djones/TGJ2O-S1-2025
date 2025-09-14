@@ -16,4 +16,4 @@ transcludeTitleSize: h2
 5. Tutorial: [[Photoshop Tutorials]]
 
 ## Things to do before our next class
-- [ ] Be sure you have [[First Notion Entry]] to introduce yourself and identify your areas of interest.
+- [ ] Be sure you have [[Day 1 Introduction]] to introduce yourself and identify your areas of interest.
