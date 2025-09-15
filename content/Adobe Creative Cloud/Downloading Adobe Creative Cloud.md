@@ -4,7 +4,7 @@ draft: false
 tags: null
 ---
 
-Click here to install [Adobe Creative Cloud](https://creativecloud.adobe.com/) onto your computer
+Click here to install [Adobe Creative Cloud](https://www.adobe.com/download/creative-cloud) onto your computer
 ![[Pasted image 20250711144004.png]]
 
 Click on the downloaded installer on the top right of your browser to begin installing Adobe Creative cloud

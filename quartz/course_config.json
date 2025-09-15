@@ -25,7 +25,9 @@
   "shared_files": [
     "Course Outline.md",
     "Grove Time.md",
-    "Learning Goals.md"
+    "Learning Goals.md",
+    "course_config.backup.json",
+    "Marking.md"
   ],
   "per_section_folders": [
     "All Classes"
@@ -33,7 +35,8 @@
   "per_section_files": [
     "Private Notes.md",
     "Scratch Page.md",
-    "Key Links.md"
+    "Key Links.md",
+    "Marking.md"
   ],
   "hidden": [
     "Grove Time.md",

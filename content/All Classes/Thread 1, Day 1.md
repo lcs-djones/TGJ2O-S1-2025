@@ -9,8 +9,8 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-1. Setup: [[Downloading Adobe Creative Cloud]]
-2. Setup: [[Downloading Photoshop]]
+1. Setup: [[Downloading Photoshop]]
+2. Class Discussion: [[Good and Bad Designs Discussion]]
 3. Portfolio: [[Creating your Notion Account]]
 4. Portfolio: [[Day 1 Introduction]]
 5. Tutorial: [[Photoshop Tutorials]]

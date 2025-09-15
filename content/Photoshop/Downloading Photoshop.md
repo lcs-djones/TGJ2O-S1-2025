@@ -4,11 +4,15 @@ draft: false
 tags: null
 ---
 
-Open up your [[Downloading Adobe Creative Cloud|recently downloaded]] Adobe Creative Cloud and make sure you are logged in with your *school gmail account*
+Hover down to the bottom of your screen so that your dock appears. Click on **Launchpad**
+![[Pasted image 20250915102012.png]]
 
-Click on the apps tab on the left hand side, navigate to the Photoshop app, and click "install"
+Find the app called **Manager** with the LCS logo and click on it
+![[Pasted image 20250915102149.png]]
 
-![[Pasted image 20250713202023.png]]
+Navigate to **My Apps* and then find and install Photoshop
+
+![[Pasted image 20250915102325.png]]
 
 >[!tip]
 >Since we will all be downloading Photoshop at the same time, our internet might be slow! While you wait, you can move onto the next step of today's lesson, **Creating your Notion account** and after, **Day 1 Introduction**
