@@ -1,6 +1,6 @@
 ---
 created: 2025-09-15T07:00:00.000-0400
-draft: true
+draft: false
 notes: You may want to remind students to keep quotes school appropriate. Have a few
   backup quotes ready in case students are stuck or choose something inappropriate.
 tags: []
