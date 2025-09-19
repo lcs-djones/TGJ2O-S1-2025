@@ -102,14 +102,6 @@ These tutorials are:
 - Add text and shapes to an image for social media
 - Adjust the space between letters
 - Add text inside a shape
-- Use a layer style to create hollow outline text
-- Transform text to match perspective in a photo
-
-**Add visual effects** (roughly 6 minutes completion):
-- Create a double color exposure glitch effect
-- Reveal a splash of color in a black and white image
-- Make a kaleidoscopic portrait with the Clone Stamp tool
-- Create a dreamy effect using a Blend mode
 
 **Composite** (roughly 6 minutes completion):
 - How to add an image
@@ -118,7 +110,7 @@ These tutorials are:
 
 ---
 ## Task
-When you completed all of the tutorials under "Orientation", "Add Text" and "Add Visual Effects", you can move on to the task for today, making a [[Photoshop Quote Task|Quote Poster]]
+When you completed all of the tutorials under "Orientation", and "Add Text", you can move on to the task for today, making a [[Photoshop Quote Task|Quote Poster]]
 
 ---
 
