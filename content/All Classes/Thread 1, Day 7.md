@@ -8,7 +8,9 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-1. Activity [[Ninja Shapes Level 3]]
+1. Setup: [[Downloading Premiere Pro]]
+2. Setup: [[Premiere Pro File Management]]
+3. Media: [[Exploring Royalty-Free Media]]
 
 ## Things to do before our next class
 - [ ] Be sure you have [[First Notion Entry]] to introduce yourself and identify your areas of interest.
