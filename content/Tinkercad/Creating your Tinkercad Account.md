@@ -1,12 +1,12 @@
 ---
 created: 2025-01-09T07:00:00.000-0400
-draft: true
+draft: false
 tags: null
 ---
 
 ## Join the classroom
 
-Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/ASMDRWFAB)
+S3: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/JFJNMTT2R)
 > [!INFO]
 >
 > Please note that your nickname is your first name, and then your last name all lowercase.
@@ -22,7 +22,7 @@ Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/ASMDRW
 
 Please navigate to the homepage on Tinkercad and create a bookmark in your web browser of choice:
 
-![[Pasted image 20241214173221.png]]
+![[Pasted image 20250923120542.png]]
 
  It will not take long before you are able to create some impressive models. You will have the chance to print these models on our 3D printer here at LCS.
 
@@ -32,7 +32,7 @@ Please navigate to the homepage on Tinkercad and create a bookmark in your web b
 >
 > At left is the finished 3D print, and at right is the model the student created in Tinkercad:
 > 
->![[Pasted image 20241214175056.png]]
+![[Pasted image 20250923120525.png]]
 
 ## Checking for completion
 

@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T07:00:00.000-0400
-draft: true
+draft: false
 ---
 
 Here are some things to know as we start this unit on 3D printing

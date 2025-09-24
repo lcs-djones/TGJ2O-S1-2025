@@ -1,6 +1,6 @@
 ---
-created: 2025-01-09T07:00:00.000-0400
-draft: true
+created: 2025-09-24T07:00:00.000-0400
+draft: false
 ---
 
 ## Tutorials
@@ -13,7 +13,7 @@ You should see the list basic tutorials, in order.
 
 Select the first tutorial, named *Place It*, and complete that tutorial:
 
-![[Pasted image 20241214204252.png]]
+![[Pasted image 20250923224834.png]]
 
 Then continue working on the tutorials until you have completed all of them:
 

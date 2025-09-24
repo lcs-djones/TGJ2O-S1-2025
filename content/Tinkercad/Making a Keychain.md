@@ -1,6 +1,6 @@
 ---
 created: 2025-01-09T07:00:00.000-0400
-draft: true
+draft: false
 tags: null
 ---
 
@@ -23,7 +23,7 @@ Make a personalized keychain to attach to your keys.
 >
 > To find letters on TinkerCad, click on "Basic Shapes" to see all of the different categories, and then click on "Design Starters" to see all of the premade letters and numbers!
 > 
-> ![[Pasted image 20241215205312.png]]
+![[Pasted image 20250923224923.png]]
 
 ## Exemplars
 
@@ -37,10 +37,10 @@ The best way to proceed is make the design you choose something that is truly yo
 
 Here are some examples of designs made by former students:
 
-![[Pasted image 20241215204803.png]]
-![[Pasted image 20241215204820.png]]
-![[Pasted image 20241215204832.png]]
-![[Pasted image 20241215205037.png]]
+![[Pasted image 20250923225048.png]]
+![[Pasted image 20250923225114.png]]
+![[Pasted image 20250923225006.png]]
+![[Pasted image 20250923225136.png]]
 
 ## File submission
 
