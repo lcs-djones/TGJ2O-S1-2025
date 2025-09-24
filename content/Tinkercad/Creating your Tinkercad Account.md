@@ -6,10 +6,12 @@ tags: null
 
 ## Join the classroom
 
+S1: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/RRRYR9T3R)
+
 S3: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/JFJNMTT2R)
 > [!INFO]
->
-> Please note that your nickname is your first name, and then your last name all lowercase.
+>Select "Log in with code"
+> Please note that your code is your first name, and then your last name all lowercase.
 > 
 > For example, Mr. Jones's full name is David Jones, so his nickname is *davidjones*.
 

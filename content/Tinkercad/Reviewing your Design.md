@@ -1,6 +1,6 @@
 ---
 created: 2025-01-09T07:00:00.000-0400
-draft: true
+draft: false
 tags: null
 ---
 
@@ -12,17 +12,17 @@ Objects with floating components, or components that are just barely connected, 
 
 For example, the `R` in this design, viewed from the top-down, looks good to go:
 
-![[Pasted image 20250208082933.png]]
+![[Pasted image 20250924093822.png]]
 
 However, if the design is rotated, we see that the `R` is floating above the rectangular prism base below it:
 
-![[Pasted image 20250208083007.png]]
+![[Pasted image 20250924093836.png]]
 
 This design will not print successfully.
 
 One possible fix would be to add supports below the `R` but the most correct solution is likely to sink the `R` into the base of the keychain, like this:
 
-![[Pasted image 20250208083258.png]]
+![[Pasted image 20250924093849.png]]
 
 ### Hangers
 
@@ -30,15 +30,15 @@ Objects with significant portions of the design that are "sticking out" or "hang
 
 For example, the ring added to the top of this design, to facilitate it's use as a keychain tag, juts out too far from the rectangular prism:
 
-![[Pasted image 20250208083603.png]]
+![[Pasted image 20250924093900.png]]
 
 It is also a bit too thin, and is likely to break easily, even if it printed successfully:
 
-![[Pasted image 20250208083633.png]]
+![[Pasted image 20250924093911.png]]
 
 An alternative would be to create a simple hole in the corner:
 
-![[Pasted image 20250208084035.png]]
+![[Pasted image 20250924093924.png]]
 
 This design will print successfully, and the thickness of the edges next to the hole that remain in the rectangular prism should be sufficient to ensure the print will not easily break when attached to a keychain.
 
@@ -50,13 +50,13 @@ Aim to have a design connect with as much of the workplane in Tinkercad as possi
 
 For example, the largest face of the rectangular prism currently sits upon the workplane:
 
-![[Pasted image 20250208084408.png]]
+![[Pasted image 20250924093934.png]]
 
 This will print successfully.
 
 However, say that the components of this design were grouped, and then the entire object were rotated such that only a tiny portion of the design connects with the workplane:
 
-![[Pasted image 20250208084611.png]]
+![[Pasted image 20250924093945.png]]
 
 Granted, this is an extreme and somewhat silly example, but you can likely appreciate that this design would not print successfully.
 
