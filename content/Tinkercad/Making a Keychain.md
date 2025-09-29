@@ -11,7 +11,7 @@ Make a personalized keychain to attach to your keys.
 ## What you'll need to begin
 
 - [ ] [[Creating Tinkercad Accounts|A Tinkercad account that is linked to our classroom]] 
-- [ ] The first thirteen [[Tinkercad Skills|Tinkercad tutorials]] completed
+- [ ] The first thirteen [[Tinkercad Tutorials|Tinkercad tutorials]] completed
 
 ## Success Criteria
 
@@ -44,7 +44,7 @@ Here are some examples of designs made by former students:
 
 ## File submission
 
-Follow these requirements to submit your work: [[Submitting files from Tinkercad]]
+Follow these requirements to submit your work: [[Submitting your Tinkercad files]]
 
 ## Reflection prompts
 
@@ -54,4 +54,4 @@ Follow these requirements to submit your work: [[Submitting files from Tinkercad
 Make a post on [Notion](https://notion.so) to:
 - [ ] share at least one screenshot of your work on this task
 - [ ] briefly respond to the prompts above
-- [ ] share your [[Submitting files from Tinkercad|completed .STL file]]
+- [ ] share your [[Submitting your Tinkercad files|completed .STL file]]

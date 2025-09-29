@@ -1,6 +1,6 @@
 ---
 created: 2025-01-09T07:00:00.000-0400
-draft: true
+draft: false
 tags: null
 ---
 
@@ -20,7 +20,7 @@ In the same way that a JPEG file holds the data that describes an image, and an 
 
 At the top right of Tinkercad, click on **Export**:
 
-![[Pasted image 20241215211105.png|250]]
+![[Pasted image 20250925004708.png]]
 
 Next, click on .STL, then save it to a folder on your computer. It is recommended that you create a folder made specifically for this module of the course, and keep all the .STL files you download from Tinkercad there. Alternatively, create a [[Creating a Smart Folder|smart folder]] that looks for .STL files on your computer.
 
@@ -30,7 +30,7 @@ Next, click on .STL, then save it to a folder on your computer. It is recommende
 > 
 >  `The selected shape`
 > 
-> ![[Pasted image 20241215211605.png|300]]
+![[Pasted image 20250925004723.png]]
 > 
 >  This option means that Tinkercad will export only what you have highlighted within your design.
 >  
