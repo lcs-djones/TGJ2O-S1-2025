@@ -14,4 +14,4 @@ transcludeTitleSize: h2
 
 ## Things to do before our next class
 - [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about 3D modeling.
-- [ ] Ensure that you have [[Reviewing your Design|fully checked your design from all angles]] and upload proof on Notion
+- [ ] Ensure that you have [[Tinkercad/Reviewing your Design|fully checked your design from all angles]] and upload proof on Notion

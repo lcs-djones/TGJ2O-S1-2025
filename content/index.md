@@ -7,6 +7,6 @@ title: Grade 10 Comm Tech, Section 1
 ---
 
 # Most Recent Class
-![[Thread 1, Day 11]]
+![[Thread 1, Day 12]]
 ![[Grove Time]]
 ![[Key Links]]

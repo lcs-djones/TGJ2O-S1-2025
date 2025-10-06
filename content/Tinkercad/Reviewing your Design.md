@@ -64,7 +64,7 @@ As a rule, orient your designs such that components "touch" the workplane as muc
 
 ## Reviewing your designs
 
-To ensure your prints are made in a timely manner (and to demonstrate your ability to self-diagnose and correct the issues described above) you are asked to create a "fly-through" of your design and to submit this [[Submitting files from Tinkercad|along with your .STL file]].
+To ensure your prints are made in a timely manner (and to demonstrate your ability to self-diagnose and correct the issues described above) you are asked to create a "fly-through" of your design and to submit this [[Submitting your Tinkercad files|along with your .STL file]].
 
 Creating a fly-through means using the screen recording capabilities of your Mac to show your design being rotated in all three dimensions.
 

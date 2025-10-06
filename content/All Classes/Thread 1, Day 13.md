@@ -8,9 +8,10 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-1. Activity [[Landmarks & Iconic Structures]]
+1. Please complete the course feedback form here: https://forms.gle/huynUN5wVNstbg9y7
+2. Activity [[Landmarks & Iconic Structures]]
 - Continue working on the Landmark or Iconic Structure that you started last class
 1. Complete the end of [[End of Mod 1 Self Assessment]]
 
 ## Things to do before our next class
-- [ ] Be sure you have [[First Notion Entry]] to introduce yourself and identify your areas of interest.
+- [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today including a detailed description on the tools and techniques you used, as well as the peer feedback you recieved.

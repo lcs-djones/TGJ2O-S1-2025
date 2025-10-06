@@ -10,10 +10,10 @@ You will select a real-life landmark or building to recreate through 3D modeling
 ## Success criteria
 Your 3D model should accurately represent the chosen landmark or building, demonstrating attention to scale, proportion, and detail. Ensure that the dimensions and features of the model align closely with the real-life structure, using reference images or measurements for accuracy. The design should showcase craftsmanship by being clean and well-constructed, free of obvious errors or structural flaws. Models should be realistic and include recognizable details that capture the essence of the landmark. Additionally, your project should reflect effort and creativity in problem-solving challenges encountered during the modeling process.
 ## Academic Integrity
-For this 3D printed Landmarks and Iconic Structures project, it is imperative that all work submitted is your own original creation. Academic integrity is a cornerstone of our learning community. Therefore, copying designs or using pre-existing models from others and submitting them as your own is strictly prohibited and will be treated as plagiarism. Each student is expected to independently research, design, and create their model using TinkerCAD. Your unique approach, creativity, and problem-solving skills are crucial to this project. Remember, this assignment is not just about the final product, but also about the process of learning, designing, and creating. Any breach of these principles will be taken seriously and will result in disciplinary action. Please refer to [[3D Printing Principles & Rules]] for all of the rules.
+For this 3D printed Landmarks and Iconic Structures project, it is imperative that all work submitted is your own original creation. Academic integrity is a cornerstone of our learning community. Therefore, copying designs or using pre-existing models from others and submitting them as your own is strictly prohibited and will be treated as plagiarism. Each student is expected to independently research, design, and create their model using TinkerCAD. Your unique approach, creativity, and problem-solving skills are crucial to this project. Remember, this assignment is not just about the final product, but also about the process of learning, designing, and creating. Any breach of these principles will be taken seriously and will result in disciplinary action. Please refer to [[Tinkercad/3D Printing Principles & Rules]] for all of the rules.
 
 ## What you'll need to begin
-Ensure that you are on our classroom for TinkerCad and review the [[Reviewing your Design|file submission standards]] as well as the [[3D Printing Principles & Rules]]. You will need a pencil and paper and to find a partner to give and receive peer feedback.
+Ensure that you are on our classroom for TinkerCad and review the [[Tinkercad/Reviewing your Design|file submission standards]] as well as the [[Tinkercad/3D Printing Principles & Rules]]. You will need a pencil and paper and to find a partner to give and receive peer feedback.
 
 ## Choosing your landmark
 
@@ -64,7 +64,7 @@ Share your updated TinkerCad design with peers for a second round of feedback. D
 Review your TinkerCad model to ensure that it is ready for 3D printing. Check for any potential printing issues such as overhangs, unsupported areas, or structural weaknesses. Make any necessary modifications to optimize the design for successful 3D printing while preserving its integrity and authenticity.
 
 ## File submission
-Follow the [[Reviewing your Design| file submission standards]] to submit your project.
+Follow the [[Tinkercad/Reviewing your Design| file submission standards]] to submit your project.
 
 >[!warning] 
 >Let Mr. Jones know when your file is submitted so that I can add it to the print queue

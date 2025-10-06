@@ -11,7 +11,7 @@ Create a set of chess pieces that are your own designs and that follow a specifi
 The chess pieces should have 3 seperate elements, a broad base, a central body and a head.
 
 ## What you'll need to begin
-Ensure that you are on our classroom for TinkerCad and review the [[Submitting your Tinkercad files|file submission standards]] as well as the [[3D Printing Principles & Rules]]. You will need a pencil and paper and to find a partner to give and receive peer feedback.
+Ensure that you are on our classroom for TinkerCad and review the [[Tinkercad/Submitting your Tinkercad files|file submission standards]] as well as the [[Tinkercad/3D Printing Principles & Rules]]. You will need a pencil and paper and to find a partner to give and receive peer feedback.
 
 ## Success Criteria
 - [ ] A hand-drawn plan is made for each of your thematic chess pieces
@@ -61,10 +61,10 @@ You can copy/paste designs from one project to another on TinkerCad. If you run 
  <script src="https://player.vimeo.com/api/player.js"></script>
 
 
-When you are done one of your pieces, receive one more piece of kind, specific and helpful constructive feedback. Make the recommended change and note of it in your Notion post for today. When your pieces are done, follow the [[Submitting files from Tinkercad|file submission standards]]. 
+When you are done one of your pieces, receive one more piece of kind, specific and helpful constructive feedback. Make the recommended change and note of it in your Notion post for today. When your pieces are done, follow the [[Submitting your Tinkercad files|file submission standards]]. 
 
 >[!todo] Submission 
->Let Mr. Jones know when you have completed a chess piece and [[Submitting files from Tinkercad|submitted properly]], so that I can add it to the print queue.
+>Let Mr. Jones know when you have completed a chess piece and [[Submitting your Tinkercad files|submitted properly]], so that I can add it to the print queue.
 
 
 

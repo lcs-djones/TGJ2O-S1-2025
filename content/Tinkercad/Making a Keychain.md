@@ -44,7 +44,7 @@ Here are some examples of designs made by former students:
 
 ## File submission
 
-Follow these requirements to submit your work: [[Submitting your Tinkercad files]]
+Follow these requirements to submit your work: [[Tinkercad/Submitting your Tinkercad files]]
 
 ## Reflection prompts
 
@@ -54,4 +54,4 @@ Follow these requirements to submit your work: [[Submitting your Tinkercad files
 Make a post on [Notion](https://notion.so) to:
 - [ ] share at least one screenshot of your work on this task
 - [ ] briefly respond to the prompts above
-- [ ] share your [[Submitting your Tinkercad files|completed .STL file]]
+- [ ] share your [[Tinkercad/Submitting your Tinkercad files|completed .STL file]]
