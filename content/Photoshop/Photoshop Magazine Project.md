@@ -124,4 +124,33 @@ When you are finished your Magazine Cover project, copy and paste the following 
 2. Which Photoshop tools or effects did you find the most useful for this project?  
 3. What was the biggest challenge you faced while designing your cover, and how did you overcome it?  
 4. How did the peer feedback you received influence your final design?  
-5. If you had one more class to work on this project, what would you improve or add, and why?
+5. If you had one more class to work on this project, what would you improve or add, and why?  
+# 📰 Photoshop Project: Magazine Cover Rubric
+
+| **Category** | **1️⃣ Beginning** <br> (Limited completion or skill) | **2️⃣ Developing** <br> (Some completion, missing elements) | **3️⃣ Proficient** <br> (Complete and meets expectations) | **4️⃣ Accomplished** <br> (Exceptional effort and polish) |
+|---------------|:--:|:--:|:--:|:--:|
+| **Layout & Design** | [ ] | [ ] | [ ] | [ ] |
+| *Basic layout with weak text/image balance or alignment issues* | | | | |
+| **Photoshop Techniques** | [ ] | [ ] | [ ] | [ ] |
+| *Few or no advanced tools used (layer masks, blending, effects, etc.)* | | | | |
+| **Completion & Requirements** | [ ] | [ ] | [ ] | [ ] |
+| *Missing required elements (masthead, headlines, barcode, PSD or exported file)* | | | | |
+| **Peer Feedback & Revision** | [ ] | [ ] | [ ] | [ ] |
+| *Feedback not shown or not applied to improve design* | | | | |
+| **Planning & Process Documentation** | [ ] | [ ] | [ ] | [ ] |
+| *No or incomplete paper sketch; little evidence of process on Notion* | | | | |
+| **Polish & Professionalism** | [ ] | [ ] | [ ] | [ ] |
+| *Low visual appeal or readability; inconsistent fonts or spacing* | | | | |
+| **Reflection & Communication** | [ ] | [ ] | [ ] | [ ] |
+| *Missing or vague reflection; lacks detail on tools or learning* | | | | |
+
+---
+
+✅ **Overall Focus:**  
+Grades emphasize **completion**, **Photoshop skill application**, and **professional presentation**, with credit for originality, reflection, and evidence of feedback and planning.
+
+🧾 **Submission Checklist:**  
+- [ ] Paper sketch photo uploaded to Notion  
+- [ ] Final JPG/PNG file  
+- [ ] PSD (Photoshop) file  
+- [ ] Reflection Questions

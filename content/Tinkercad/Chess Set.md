@@ -29,7 +29,7 @@ You will design and 3D print chess pieces, each reflecting a unique theme of you
 ![[Pasted image 20250930211045.png]]
 
 ## Sketch and Design
-Draw out your 6 chess pieces (Pawn, Rook, Knight, Bishop, Queen & King) on graph paper. This will act as your initial design.  The pieces should be easily recognisable as their appropriate piece (example: There should be no confusion on if a piece is a Pawn or a Rook). These sketches should be included in your Notion post as part of your planning process.
+Draw out your 2 chosen chess pieces (Pawn, Rook, Knight, Bishop, Queen & King) on graph paper. This will act as your initial design.  The pieces should be easily recognisable as their appropriate piece (example: There should be no confusion on if a piece is a Pawn or a Rook). These sketches should be included in your Notion post as part of your planning process.
 
 >[!tip] Remember to keep in mind the principles of 3D modeling when sketching and designing.
 
@@ -73,3 +73,46 @@ When you are done one of your pieces, receive one more piece of kind, specific a
 
 
 Reprints will only happen in certain circumstances, so make sure that you get it right!
+
+## Reflection Questions  
+
+When you are finished your 3D Chess sets, copy and paste the following questions into your Notion entry and answer them in complete sentences:  
+
+---
+
+### Reflection Questions
+
+1. Which piece are you most proud of, and why? What specific design or modelling choices made it successful?  
+2. Which piece was the most challenging to create, and what strategies or techniques did you use to overcome those challenges?  
+3. What design or technical skills improved the most for you during this project?  
+4. Describe one problem you encountered during the modelling or printing process and how you solved it.  
+5. What advice would you give to a future student starting this same project?  
+
+---
+
+✅ **Reminder:**  
+Be honest, detailed, and specific in your responses. Include screenshots or photos of your work if relevant to your answers.
+
+# ♟️ 3D Chess Set Project Rubric
+
+| **Category** | **1️⃣ Beginning** <br> (Limited completion or detail) | **2️⃣ Developing** <br> (Some completion, missing elements) | **3️⃣ Proficient** <br> (Complete and meets expectations) | **4️⃣ Accomplished** <br> (Exceptional effort and detail) |
+|---------------|:--:|:--:|:--:|:--:|
+| **Design & Creativity** | [ ] | [ ] | [ ] | [ ] |
+| *Theme clarity, uniqueness of each chess piece, overall creativity* | | | | |
+| **Completion of Work** | [ ] | [ ] | [ ] | [ ] |
+| *All pieces finished with base, body, and head; attention to detail* | | | | |
+| **Planning & Process Documentation** | [ ] | [ ] | [ ] | [ ] |
+| *Sketches, iteration evidence, Notion documentation, screenshots* | | | | |
+| **Peer Feedback & Iteration** | [ ] | [ ] | [ ] | [ ] |
+| *Kind, specific, and helpful feedback shown and applied in redesigns* | | | | |
+| **Printability & Technical Execution** | [ ] | [ ] | [ ] | [ ] |
+| *Pieces realistically printable, appropriate scale, and structurally sound* | | | | |
+| **File Submission Standards** | [ ] | [ ] | [ ] | [ ] |
+| *STL file, screenshot, and video flythrough correctly submitted* | | | | |
+| **Reflection & Communication** | [ ] | [ ] | [ ] | [ ] |
+| *Complete answers, detail about learning, challenges, and improvements* | | | | |
+
+---
+
+✅ **Overall Focus:**  
+Completion, documentation, and correct submission of all required components (STL + screenshot + video flythrough) form the majority of the assessment. Creativity and printability add depth and polish.

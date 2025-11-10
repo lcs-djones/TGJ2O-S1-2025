@@ -1,5 +1,7 @@
 ---
-{}
+created: 2024-09-16T07:00:00.000-0400
+draft: false
+tags: null
 ---
 
 # 🖌️ Design Showdown

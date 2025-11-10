@@ -4,4 +4,4 @@ draft: false
 title: Grove Time
 ---
 
-This is the shared file **Grove Time.md**.
+Grove Times are throughout the week by appointment. Message on Edsby or via Email.

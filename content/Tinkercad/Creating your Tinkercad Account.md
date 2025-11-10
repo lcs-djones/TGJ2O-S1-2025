@@ -8,6 +8,8 @@ tags: null
 
 S1: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/RRRYR9T3R)
 
+S2: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/EKDMQAYJZ)
+
 S3: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/JFJNMTT2R)
 > [!INFO]
 >Select "Log in with code"

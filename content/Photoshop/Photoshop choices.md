@@ -61,6 +61,7 @@ Your finished work should be uploaded to your Notion portfolio with a short desc
 
 # Submission
 - Export your final image as a **.jpg or .png**.  
+- Submit your .psd file as well
 - Post it in your Notion portfolio with:
   - The project option you chose  
   - A short reflection (2–4 sentences) on what you learned and what tools you used

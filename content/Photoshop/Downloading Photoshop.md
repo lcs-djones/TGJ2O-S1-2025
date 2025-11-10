@@ -17,4 +17,8 @@ Navigate to **My Apps* and then find and install Photoshop
 >[!tip]
 >Since we will all be downloading Photoshop at the same time, our internet might be slow! While you wait, you can move onto the next step of today's lesson, **Creating your Notion account** and after, **Day 1 Introduction**
 
-Once the program is finished installing, open it and allow any permissions it requests.
+Once the program is finished installing, open it and allow any permissions it requests. 
+
+>[!warning]
+>If the button says *Reinstall*, it means that Photoshop has *already installed correctly*. You can find it in your applications folder
+>![[Pasted image 20251013224617.png]]
