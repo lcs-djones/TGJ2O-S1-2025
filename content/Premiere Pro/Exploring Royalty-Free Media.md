@@ -1,6 +1,6 @@
 ---
 created: 2025-09-20T07:00:00.000-0400
-draft: true
+draft: false
 notes: This page assumes students have already created their Video Editing folder
   structure from the previous task. If not, direct them to complete that first.
 tags: null

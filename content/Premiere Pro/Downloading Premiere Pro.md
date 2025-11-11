@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16T07:00:00.000-0400
-draft: true
+draft: false
 tags: null
 ---
 
@@ -17,12 +17,22 @@ With Premiere Pro, you can:
 
 You’ll be using Premiere Pro throughout this course to edit footage, tell stories, and bring your ideas to life on screen.
 
-Open up your [[Downloading Adobe Creative Cloud|recently downloaded]] Adobe Creative Cloud and make sure you are logged in with your *school gmail account*
 
-Click on the apps tab on the left hand side, navigate to the Premiere Pro app, and click "install"
+Hover down to the bottom of your screen so that your dock appears. Click on **Launchpad**
+![[Pasted image 20250915102012.png]]
 
-![[Pasted image 20250812211512.png]]
+Find the app called **Manager** with the LCS logo and click on it
+![[Pasted image 20250915102149.png]]
+
+Navigate to **My Apps* and then find and install Premiere Pro
+
+![[Pasted image 20251110204214.png]]
+
+>[!tip]
+>Since we will all be downloading Premiere Pro at the same time, our internet might be slow! While you wait, you can move onto the next steps of today's lesson
 
 Once the program is finished installing, open it and allow any permissions it requests. 
 
-The download may go slowly as we are all downloading the program at the same time. In the meantime continue with the other goals for [[Thread 1, Day 6 1 (start of Premiere)|todays class.]]
+>[!warning]
+>If the button says *Reinstall*, it means that Photoshop has *already installed correctly*. You can find it in your applications folder
+>![[Pasted image 20251013224617.png]]
