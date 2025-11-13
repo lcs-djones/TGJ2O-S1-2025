@@ -10,6 +10,7 @@ transcludeTitleSize: h2
 
 ## Agenda
 1. Tutorials: [[Tutorials Part 1]]
+	1. Some built in tutorials have not been working for students. If they are not working for you, please complete the [[Online Tutorials Part 1]] instead.
 
 2. If you are done [[Tutorials Part 1]] and have extra time, you may start [[Day in the life]].
 
