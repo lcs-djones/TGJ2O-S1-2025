@@ -1,6 +1,6 @@
 ---
 created: 2024-09-06T07:00:00.000-0400
-draft: true
+draft: false
 enableToc: false
 excludeBacklinks: true
 notes: start of Premiere
