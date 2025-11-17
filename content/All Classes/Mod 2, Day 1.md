@@ -14,6 +14,7 @@ transcludeTitleSize: h2
 3. Media: [[Exploring Royalty-Free Media]]
 4. Task: [[What makes a good edit?]]
 5. Task: [[Sequence Planning Exercise]]
+6. Setup: [[Submitting your Premiere Pro files]]
 
 **Starting next class, please bring headphones/earbuds to EVERY class. These will be required and expected due to the auditory nature of the content that we will be making**
 

@@ -62,7 +62,16 @@ You’ll practice stabilizing shaky footage, resizing clips, and matching differ
 **Skills Covered:** scale and position, stabilization, matching colors, format adjustments, frame rate handling.
 
 ---
+## 🔎 Tutorials 5 & 6: Explore Your Own Interests
 
+https://www.adobe.com/learn/premiere-pro
+For your **5th and 6th tutorials**, you will choose **your own** tutorials to complete. These should focus on a **new style, technique, or tool** in Premiere Pro that genuinely interests you or that you think you might want to use in a future project. You may select tutorials from Adobe’s website, YouTube, or any other reputable source — though I strongly recommend choosing something from the **“Intermediate” level** to continue building your skills.
+
+Premiere Pro is an incredibly deep program with far more tools and techniques than we can cover in class. Learning to **explore independently**, follow tutorials on your own, and experiment with tools that excite you is an essential part of becoming a confident and creative editor.
+
+Use these two tutorials as an opportunity to challenge yourself, try something new, and discover features you didn’t know existed.
+
+---
 ## 📸 Notion Submission Requirements
 For **each tutorial**, include:
 - A **screenshot** showing that you completed the tutorial  

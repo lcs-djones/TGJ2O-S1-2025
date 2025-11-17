@@ -1,6 +1,6 @@
 ---
 created: 2025-09-19T07:00:00.000-0400
-draft: true
+draft: false
 notes: null
 tags: null
 ---
@@ -25,7 +25,7 @@ This project will take **two classes (≈3 hours)** to complete.
 ### 🎬 Option 1: Mini Story Edit
 Example: https://www.youtube.com/watch?v=OA69nGCjXds
 ![[Pasted image 20251110221011.png]]
-Tell a simple story using **at least 8 video clips** (no maximum).  
+Tell a simple story using **at least 10 video clips** (no maximum).  
 Your story should have a clear **beginning, middle, and end**, and be at least **1 minute long**.
 
 **Requirements:**
@@ -34,6 +34,7 @@ Your story should have a clear **beginning, middle, and end**, and be at least *
 - **At least one transition**  
 - **Background music and/or sound effects**  
 - **Basic color adjustment or lighting correction**  
+- **2 Premiere Pro edit tools/techniques of your choice (must be identified)**
 - A smooth, logical flow that feels like a real story  
 
 **Examples:**  
@@ -56,6 +57,7 @@ Final video must be **at least 1 minute long**.
 - **Music or voiceover**  
 - **Transitions** to maintain flow  
 - **Consistent style or color grading**  
+- **2 Premiere Pro edit tools/techniques of your choice (must be identified)**
 
 **Examples:**  
 - “Promo for the Robotics Team”  
@@ -75,7 +77,8 @@ Your final edit must be **at least 1 minute long** and show clear synchronizatio
 - **Cuts aligned with music beats or changes in rhythm**  
 - **Creative transitions**  
 - **Basic color or lighting adjustments**  
-- Optional: title or outro text  
+- **title or outro text  **
+- **2 Premiere Pro edit tools/techniques of your choice (must be identified)**
 
 **Examples:**  
 - A montage of sports clips cut to a fast-paced song  
