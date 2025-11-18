@@ -7,13 +7,13 @@ draft: false
 
 Tinkercad has some fantastic built-in tutorials that will help you learn the basics of the program.
 
-Navigate to the left hand side of the website and find **Tutorials**.
-
+Navigate to the left hand side, or to the top of the website and find **Tutorials**.
+![[Pasted image 20251118154052.png]]
+![[Pasted image 20251118154218.png]]
 You should see the list basic tutorials, in order.
 
 Select the first tutorial, named *Place It*, and complete that tutorial:
 
-![[Pasted image 20250923224834.png]]
 
 Then continue working on the tutorials until you have completed all of them:
 
@@ -30,7 +30,7 @@ Then continue working on the tutorials until you have completed all of them:
 11. Creating holes
 12. Camera controls
 13. "Let's Learn Tinkercad"
-
+![[Pasted image 20251118155502.png]]
 > [!TIP]
 >
-> This may seem like a *lot*, but these are fundamental skills for three-dimensional object design. Your effort has value. Mr. Gordon and Mr. Jones will monitor your progress to support your learning. Do not hesitate to ask questions as needed.
+> This may seem like a *lot*, but these are fundamental skills for three-dimensional object design. Your effort has value. Mr. Jones will monitor your progress to support your learning. Do not hesitate to ask questions as needed.

@@ -11,6 +11,8 @@ S1: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/RR
 S2: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/EKDMQAYJZ)
 
 S3: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/JFJNMTT2R)
+
+Green Industries: Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/KMZET3UBE)
 > [!INFO]
 >Select "Log in with code"
 > Please note that your code is your first name, and then your last name all lowercase.
