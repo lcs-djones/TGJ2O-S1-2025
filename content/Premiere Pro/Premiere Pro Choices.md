@@ -91,6 +91,8 @@ Your final edit must be **at least 1 minute long** and show clear synchronizatio
 In your **Notion** post, include:
 - Your **exported MP4 file** (final video)  
 - **Screenshots** showing your timeline and export window  
+- **Your .prproj file** uploaded to Notion
+- Please follow file submission standards outlined in [[Submitting your Premiere Pro files]]
 - A **short reflection** that answers:
   - What project option did you choose and why?  
   - What story, message, or mood were you trying to create?  
