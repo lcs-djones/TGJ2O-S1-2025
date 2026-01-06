@@ -52,3 +52,13 @@ The entire process of exporting and then submitting an .STL file is shown here:
 	</iframe>
 	</div>
  <script src="https://player.vimeo.com/api/player.js"></script>
+
+## 3D Print Request Form (Only If You Want a Physical Print)
+
+If you would like your model to be **physically 3D printed**, you must submit it using the **3D Print Request Form** linked here.
+
+This form is used **only** to manage printing logistics (files, size, material, queue order). It does **not** replace your regular Notion submission. You are still expected to complete your Notion entry as usual to document your process and learning.
+
+If you **do not care about receiving a physical print**, you can skip the form entirely and simply continue with your normal Notion submission.
+
+👉 [**Submit your file for printing here:**](https://forms.gle/3piWczCfeUzfYCcYA)

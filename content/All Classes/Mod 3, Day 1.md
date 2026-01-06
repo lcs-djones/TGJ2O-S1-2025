@@ -9,9 +9,11 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-
-1. Complete a new [[End of Mod 1 Self Assessment|Self Assessment]]
-2. Continue your [[Project Planning Guide|Chosen Open Project]]
+1. Setup: [[3D files to be printed submission form]]
+2. Project: [[Good vs. Bad Project Choices]]
+3. Project: [[Project Examples and Requests]]
+4. Project: [[Project Accountability]]
+5. Project:[[Project Planning Guide| Begin a new chosen Open Project]]
 
 
 ## Things to do before our next class

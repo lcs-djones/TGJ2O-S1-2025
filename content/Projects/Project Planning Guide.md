@@ -66,17 +66,7 @@ Your project must:
 
 ## 🧠 Proposal Requirements
 
-You must submit a written proposal that includes:
-- Project title
-- Your name
-- 1–2 sentence project description
-- What course area(s) it connects to
-- Who the project is for (audience or client)
-- What the final product will be
-- Tools/software you’ll use
-- Estimated class-by-class work plan (see time log)
-- Description of your planning materials (see below)
-- Why this project matters (personally or to the school)
+The template on Notion is expected to be completed fully in detail.
 
 Your proposal will be assessed as part of your **Thinking** mark (KTCA). When completed, receive peer-feedback (include in your Notion post as well) and make any necessary changes. Once approved by Mr. Jones, you can begin working on the planning phase.
 

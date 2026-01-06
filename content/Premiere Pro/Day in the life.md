@@ -14,9 +14,9 @@ title: 🎞️ Mini Project — “A Day in 6 Clips”
 
 ## Overview
 Now that you’ve completed the **Premiere Pro tutorials**, it’s time to put those skills into practice with a short, creative project.  
-In this activity, you’ll make a **20–30 second video** called **“A Day in 6 Clips.”** The goal is to use everything you just learned — importing, trimming, arranging, adding titles, and exporting — to tell a short visual story.
+In this activity, you’ll make a **20–30 second video** called **“A Day in 6 Clips.”** The goal is to use everything you just learned, importing, trimming, arranging, adding titles, and exporting, to tell a short visual story.
 
-This is meant to be light, fun, and quick. You’ll be surprised how much you can do in an hour with what you already know!
+This is meant to be light, fun, and quick. You’ll be surprised how much you can do in a class with what you already know!
 
 ---
 
@@ -25,7 +25,7 @@ This is meant to be light, fun, and quick. You’ll be surprised how much you ca
 ### 1️⃣ Collect Your Footage
 Gather **6 short video clips** (5–10 seconds each).  
 These can be:
-- From your phone or camera  
+- From your phone (explicit permission from me to use your phone) or computer   
 - Downloaded from free stock sites (e.g., Pexels, Pixabay, Unsplash Video)  
 - Or from the **Sample Media** folder inside Premiere Pro  
 
@@ -56,8 +56,7 @@ Include the following elements:
 ---
 
 ### 5️⃣ Export and Upload
-- Use **Quick Export** to save your finished video as an `.mp4`  
-- Upload the exported video to your **Notion post**  
+Refer to [[Submitting your Premiere Pro files]] for detailed instruction on required files for submission
 - Add a short reflection paragraph:
   > What did you learn from this project? Which tool or step felt easiest or most challenging?
 
@@ -65,10 +64,12 @@ Include the following elements:
 
 ## ✅ Submission Checklist
 Make sure your Notion post includes:
-- ✅ The **final exported video file**  
+- ✅ The **final exported video (mp4) file** 
+- ✅ The **Premiere Pro .prproj files**  
+- ✅ Screenshots of your Premiere Pro workspace showing your editing process  
 - ✅ Kind, specific and helpful **peer feedback**
 - ✅ A short **reflection paragraph**  
-- ✅ Screenshots of your Premiere Pro workspace showing your editing process  
+
 
 ---
 
@@ -78,4 +79,4 @@ Make sure your Notion post includes:
 - Tell a simple, creative story through editing and pacing  
 
 ---
-🎥 *Take your time, have fun, and experiment — this is your first real edit!*
+🎥 *Take your time, have fun, and experiment, this is your first real edit!*
