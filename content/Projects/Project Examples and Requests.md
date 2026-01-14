@@ -39,9 +39,16 @@ Create promotional videos or graphics to showcase this course for the course fai
 
 ---
 
-### 🛠️ Media Pass Badges  
-**3D Printing**  
-Design and print wearable media passes that act as phone permission slips for school media use.
+### 🍫 Valentine’s Day Chocolate Bar Fundraiser  
+**Print / Graphic Design**  
+Design printable labels or cards to be taped onto chocolate bars for a Valentine’s Day fundraiser.
+
+The design must include enough blank space to clearly write who the chocolate bar is **for**, the recipient’s **House**, who it is **from**, and an optional **short note**.
+
+The layout should be easy to **print on standard paper**, cut into **equal-sized squares**, and efficiently mass-produced. The final pieces will be **taped directly onto chocolate bars**.
+
+All designs must be completed by **January 21st**.
+
 
 ---
 
