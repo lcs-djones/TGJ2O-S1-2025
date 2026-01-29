@@ -6,6 +6,7 @@ title: Key Links
 ---
 
 - [Notion](https://notion.so)
+- [[Grove Time]]
 - [[Learning Goals]]
 - [[Marking]]
 - [[Notion Portfolio Explained]]
