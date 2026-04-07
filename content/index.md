@@ -7,5 +7,5 @@ title: Grade 10 Comm Tech, Section 1
 ---
 
 # Most Recent Class
-![[Mod 4, Day 1]]
+![[Culminating Project - Class 1]]
 ![[Key Links]]

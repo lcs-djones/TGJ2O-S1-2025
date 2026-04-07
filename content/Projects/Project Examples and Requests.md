@@ -33,49 +33,22 @@ The ideas below are **supports**, not defaults.
 
 These are real needs in the school community. Each includes a **clear purpose** and audience.
 
-### 🎬 / 🖼️ Course Fair Promotion  
-**Premiere Pro / Photoshop**  
-Create promotional videos or graphics to showcase this course for the course fair.
-
 ---
-
-### 🍫 Valentine’s Day Chocolate Bar Fundraiser  
-**Print / Graphic Design**  
-Design printable labels or cards to be taped onto chocolate bars for a Valentine’s Day fundraiser.
-
-The design must include enough blank space to clearly write who the chocolate bar is **for**, the recipient’s **House**, who it is **from**, and an optional **short note**.
-
-The layout should be easy to **print on standard paper**, cut into **equal-sized squares**, and efficiently mass-produced. The final pieces will be **taped directly onto chocolate bars**.
-
-All designs must be completed by **January 21st**.
-
-
 ---
-
-### 🖼️ Environmental Sustainability Infographic (Mrs. Ross)  
-**Photoshop**  
-Design a clear, professional infographic promoting environmental sustainability for school display or sharing.
-
 ---
 
 ## 🗓️ Key Dates You Can Build a Project Around
 
 These events give your project a **real deadline and purpose**.
 
-- **Jan 15** – Service Learning Tech Help  
-  *Documentation, promo, or instructional content for the Lakefield Public Library*
+- **Apr 1** – Passover Begins  
+  *Educational infographics, short explainer videos, cultural storytelling posts, or digital displays highlighting traditions and significance*
 
-- **Jan 16** – Friday Night Lights  
-  *Highlight videos, photos, or event graphics*
+- **Apr 2** – World Autism Awareness Day  
+  *Awareness campaigns, social media graphics, short documentaries, interviews, or visual storytelling promoting inclusion and understanding*
 
-- **Jan 21** – Bell Let’s Talk Day  
-  *Awareness posters, videos, or visual messaging*
-
-- **Jan 23** – Winter Carnival  
-  *Event promos, recaps, or visual assets*
-
-- **Feb 5** – Ted Pope Day  
-  *Commemorative media, storytelling, or displays*
+- **Apr 4–7** – Easter Break  
+  *Photo series, recap videos, themed graphics, creative storytelling projects, or personal interest media exploring hobbies, travel, or experiences*
 
 All event-based projects must be planned **in advance** and approved before production.
 
