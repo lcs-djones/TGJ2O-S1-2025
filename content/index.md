@@ -7,5 +7,5 @@ title: Grade 10 Comm Tech, Section 1
 ---
 
 # Most Recent Class
-![[Culminating Project - Class 1]]
+![[Culminating Project - Class 2]]
 ![[Key Links]]
