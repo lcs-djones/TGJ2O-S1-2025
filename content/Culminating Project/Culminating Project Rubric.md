@@ -167,6 +167,92 @@ Your Notion portfolio must show:
 | Detailed and clear | Vague and short |
 
 ---
+---
+
+## 🤖 AI Usage Expectations
+
+AI can be a helpful tool in this course, but it must be used **appropriately and intentionally**.
+
+---
+
+### ✅ Appropriate Use of AI
+
+You are encouraged to use AI:
+
+- During **Class 1 (planning)** to help generate ideas, rules, and structure for your game  
+- As a **brainstorming tool** to explore possibilities  
+- To help **refine ideas**, not replace them  
+
+📌 Think of AI as a **starting point**, not the final product.
+
+---
+
+### ⚠️ Expectations Moving Forward
+
+After the initial planning stage, it is expected that:
+
+- All work submitted is **your own**  
+- Your designs, files, and decisions reflect **your thinking and effort**  
+- Your Notion entries clearly show **your process and learning**  
+
+You must be able to:
+- Explain your work  
+- Justify your decisions  
+- Demonstrate how you used tools and techniques  
+
+---
+
+### 🖼️ AI-Generated Images
+
+AI image generation (e.g., creating graphics, icons, or backgrounds) should be used **very carefully and minimally**.
+
+- The **majority of your design work must be created by you** using the tools we are learning  
+- AI-generated images may be used only for **small supporting elements** that would be difficult to create yourself  
+  (e.g., a small icon or background detail)
+
+📌 AI should not be used to generate the main visuals of your board, cards, or overall design.
+
+The purpose of this project is to show **your design skills**, so your work should clearly reflect what you are able to create.
+
+---
+
+### ❌ Inappropriate Use of AI
+
+AI should **not** be used to:
+
+- Generate final written reflections or Notion entries  
+- Create the main visual components of your project  
+- Complete work that you do not understand  
+- Replace your own thinking, design, or problem solving  
+
+Submitting AI-generated work as your own is considered **academic dishonesty**.
+
+---
+
+### 📌 Key Reminder
+
+AI is a **tool**.
+
+It can help you:
+- Start ideas  
+- Ask questions  
+- Explore options  
+
+But it cannot:
+- Think for you  
+- Design for you  
+- Learn for you  
+
+Your mark is based on your **learning, process, and application of skills** — all of which must be your own.
+
+---
+
+### 🎯 Bottom Line
+
+Use AI to support your thinking, not replace it.
+
+Your project should clearly show **your skills, your decisions, and your understanding**.
+
 
 # ⚠️ Final Reminder
 
