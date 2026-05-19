@@ -6,7 +6,7 @@ tags: null
 ---
 
 # 🎮 TGJ2O – Culminating Project  
-## 🧱 Classes 5–6: Designing Game Pieces (TinkerCad)
+## 🧱 Classes 5–7: Designing Game Pieces (TinkerCad)
 
 ---
 

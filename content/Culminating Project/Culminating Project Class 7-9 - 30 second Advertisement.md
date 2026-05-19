@@ -6,7 +6,7 @@ tags: null
 ---
 
 # 🎮 TGJ2O – Culminating Project  
-## 🎬 Classes 8–9: 30-Second Commercial
+## 🎬 Classes 7–9: 30-Second Commercial
 
 ---
 
@@ -37,21 +37,22 @@ It should feel like something someone would actually watch online.
 
 ---
 
-## ⚠️ Important Constraint (and Opportunity)
+## ⚠️ Important Check
 
-You likely **do not have a fully completed physical game** to film.
+I printed boards, cards, and 3D pieces based on the files that were submitted on Day 4 and Day 6 on Notion.
 
-That is expected.
+If you did not submit the required files, that means I could not print your materials.
 
-Instead, you should creatively use:
-- Screenshots of your board, cards, and designs  
-- Screen recordings of your work in progress  
-- Close-up shots of printed elements (if available)  
-- Creative filming (hands, dice, reactions, etc.)  
-- Text, music, and editing to build excitement  
+As a result, some of you may not have physical pieces, boards, or cards available for filming. This is a direct result of missing submissions and is **not an excuse to fall behind on your commercial**.
 
-📌 Strong commercials are about **presentation and storytelling**, not just what you physically have.
+Instead, you will need to get creative by using:
+- Screenshots of your work  
+- Screen recordings  
+- Digital mockups  
+- Creative editing and camera work  
+- Text, music, and pacing to build excitement  
 
+📌 Strong commercials are about presentation, storytelling, and creativity — not just what you physically have available.
 ---
 
 ## 🎥 Creative Direction
@@ -104,7 +105,7 @@ Create a quick plan on paper or notes:
 - Organize your files (video, images, audio) before importing  
 - Use a standard sequence (1080p recommended)
 
-📌 Keep your files organized to avoid “media offline” issues.
+📌 Keep your files organized to avoid “media offline” issues. More information on this can be found [[Offline Media| here.]]
 
 ---
 
@@ -147,9 +148,9 @@ A strong commercial typically includes:
 
 ---
 
-## 📝 Step 6 – Notion Entry (Daily Requirement)
+## 📝 Notion Entry (Daily Requirement)
 
-Your Notion post must include:
+Your Notion posts must include:
 
 - Storyboard / plan  
 - Screenshots of your timeline  
@@ -157,6 +158,8 @@ Your Notion post must include:
 - Tools and techniques used in Premiere Pro  
 - Explanation of creative choices  
 - Challenges and how you solved them  
+
+Please use the provided Notion template to ensure that you have all elements completed and submitted.
 
 📌 This is how your **Communication and Application** are assessed.
 
@@ -168,6 +171,8 @@ Your Notion post must include:
 - It should be **clear, engaging, and intentional**
 - It should reflect your **game’s identity and tone**
 - Editing should feel **clean and purposeful**
+- All templates must be **fully completed**
+- Final submission has an exported **mp4** along with your **screenshot & prproj file**
 
 ---
 
